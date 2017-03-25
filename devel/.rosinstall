@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/brian/robot/raspberry_ws/devel/setup.sh
